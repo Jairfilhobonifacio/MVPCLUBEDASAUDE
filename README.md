@@ -28,10 +28,11 @@ Uma área exclusiva para o cliente acompanhar seu progresso e gerenciar sua cont
 *Para adicionar as imagens, substitua as URLs de placeholder abaixo pelos links das suas imagens. Você pode fazer o upload das imagens para o próprio GitHub ou usar um serviço como o Imgur.*
 
 ### Painel do Administrador
-![Painel do Administrador](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6deb07ae-2ce9-4715-a585-18999dbe14dd" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6deb07ae-2ce9-4715-a585-18999dbe14dd" />
 
 ### Portal do Cliente
-![Portal do Cliente](https://via.placeholder.com/800x400.png?text=Portal+do+Cliente)
+![<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/37f4aecd-33b7-40f8-b7e6-4ab1c7242b45" />
+
 
 ## 🚀 Tecnologias Utilizadas
 

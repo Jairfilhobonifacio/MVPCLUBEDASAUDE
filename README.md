@@ -28,7 +28,7 @@ Uma área exclusiva para o cliente acompanhar seu progresso e gerenciar sua cont
 *Para adicionar as imagens, substitua as URLs de placeholder abaixo pelos links das suas imagens. Você pode fazer o upload das imagens para o próprio GitHub ou usar um serviço como o Imgur.*
 
 ### Painel do Administrador
-![Painel do Administrador](<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6deb07ae-2ce9-4715-a585-18999dbe14dd" />
+![Painel do Administrador](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6deb07ae-2ce9-4715-a585-18999dbe14dd" />
 
 ### Portal do Cliente
 ![Portal do Cliente](https://via.placeholder.com/800x400.png?text=Portal+do+Cliente)
@@ -37,12 +37,15 @@ Uma área exclusiva para o cliente acompanhar seu progresso e gerenciar sua cont
 
 Este projeto foi construído com um stack de tecnologias modernas, focadas em performance, escalabilidade e uma ótima experiência de desenvolvimento.
 
--   **Frontend**: [Next.js](https://nextjs.org/) (com App Router)
--   **Linguagem**: [TypeScript](https://www.typescriptlang.org/)
--   **Estilização**: [Tailwind CSS](https://tailwindcss.com/)
--   **Componentes UI**: [shadcn/ui](https://ui.shadcn.com/)
--   **Gerenciamento de Estado**: React Context API
--   **Formulários**: [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) para validação
+-   <div align="center">
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/></a>
+  <a href="https://react-hook-form.com/" target="_blank"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/></a>
+  <a href="https://zod.dev/" target="_blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/></a>
+</div>
 
 > **Nota**: Atualmente, a aplicação opera com dados simulados ("mockados") e utiliza o `localStorage` do navegador para persistência, sem a necessidade de um backend ou banco de dados.
 
